@@ -1,0 +1,15 @@
+//ota.json
+{
+  "firmware":
+  {
+    "version":"1.0.1",
+    "url":"https://github.com/Djevelen666/ESP32-Gateway-/raw/refs/heads/main/firmware.bin"
+  },
+
+
+  "web":
+  {
+    "version":"1.2.0",
+    "url":"https://github.com/Djevelen666/ESP32-Gateway-/raw/refs/heads/main/website.zip"
+  }
+}
