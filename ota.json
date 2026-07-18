@@ -2,13 +2,13 @@
   "firmware":
   {
     "version":"1.0.1",
-    "url":"https://github.com/Djevelen666/ESP32-Gateway-/raw/refs/heads/main/firmware.bin"
+    "url":"https://raw.githubusercontent.com/Djevelen666/ESP32-Gateway-/main/firmware.bin"
   },
 
 
   "web":
   {
     "version":"1.0.2",
-    "url":"https://github.com/Djevelen666/ESP32-Gateway-/raw/refs/heads/main/website.tar.gz"
+    "url":""url":"https://raw.githubusercontent.com/Djevelen666/ESP32-Gateway-/main/website.tar.gz""
   }
 }
