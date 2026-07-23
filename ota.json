@@ -1,14 +1,14 @@
 {
   "firmware":
   {
-    "version":"1.0.2",
+    "version":"1.0.0",
     "url":"https://raw.githubusercontent.com/Djevelen666/ESP32-Gateway-/main/firmware.bin"
   },
 
 
   "web":
   {
-    "version":"1.0.2",
+    "version":"1.0.0",
     "url":"https://raw.githubusercontent.com/Djevelen666/ESP32-Gateway-/main/website.tar.gz"
   }
 }
