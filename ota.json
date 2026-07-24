@@ -1,7 +1,7 @@
 {
   "firmware":
   {
-    "version":"1.0.0",
+    "version":"1.0.1",
     "url":"https://raw.githubusercontent.com/Djevelen666/ESP32-Gateway-/main/firmware.bin"
   },
 
